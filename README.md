@@ -18,25 +18,27 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp
 </div>
 
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp 
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
-</div>
+
 
 <br>
 
