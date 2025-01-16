@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello!%20I'm%20Seowon%20Kim😎,%20a%20student%20studying%20to%20become%20a%20back-end%20developer🧑‍💻&fontSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&text=Hello!%20I'm%20Seowon%20Kim😎,%20a%20student%20studying%20to%20become%20a%20back-end%20developer🧑‍💻&fontSize=20" />
 </div>
 
 <!--내용 부분-->
